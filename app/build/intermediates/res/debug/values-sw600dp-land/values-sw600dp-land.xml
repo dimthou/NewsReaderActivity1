@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Thou/Documents/New%20folder/NewsReaderActivity1/app/src/main/res/values-sw600dp-land/layouts.xml -->
+    <eat-comment/>
+    <bool name="has_two_panes">true</bool>
+    <item name="main_layout" type="layout">@layout/twopanes</item>
+</resources>

@@ -1,0 +1,67 @@
+-- Merging decision tree log ---
+manifest
+ADDED from AndroidManifest.xml:17:1
+	xmlns:android
+		ADDED from AndroidManifest.xml:17:11
+	package
+		ADDED from AndroidManifest.xml:18:7
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:versionName
+		ADDED from AndroidManifest.xml:20:7
+	android:versionCode
+		ADDED from AndroidManifest.xml:19:7
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+uses-sdk
+ADDED from AndroidManifest.xml:21:5
+	android:targetSdkVersion
+		ADDED from AndroidManifest.xml:21:41
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+	android:minSdkVersion
+		ADDED from AndroidManifest.xml:21:15
+		INJECTED from AndroidManifest.xml:0:0
+		INJECTED from AndroidManifest.xml:0:0
+supports-screens
+ADDED from AndroidManifest.xml:22:5
+	android:largeScreens
+		ADDED from AndroidManifest.xml:25:9
+	android:normalScreens
+		ADDED from AndroidManifest.xml:24:9
+	android:xlargeScreens
+		ADDED from AndroidManifest.xml:26:9
+	android:smallScreens
+		ADDED from AndroidManifest.xml:23:9
+application
+ADDED from AndroidManifest.xml:28:5
+	android:label
+		ADDED from AndroidManifest.xml:28:48
+	android:icon
+		ADDED from AndroidManifest.xml:28:18
+	android:theme
+		ADDED from AndroidManifest.xml:29:48
+	android:logo
+		ADDED from AndroidManifest.xml:29:18
+activity#com.example.android.newsreader.NewsReaderActivity
+ADDED from AndroidManifest.xml:30:9
+	android:label
+		ADDED from AndroidManifest.xml:30:54
+	android:name
+		ADDED from AndroidManifest.xml:30:19
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:31:13
+action#android.intent.action.MAIN
+ADDED from AndroidManifest.xml:32:17
+	android:name
+		ADDED from AndroidManifest.xml:32:25
+category#android.intent.category.LAUNCHER
+ADDED from AndroidManifest.xml:33:17
+	android:name
+		ADDED from AndroidManifest.xml:33:27
+activity#com.example.android.newsreader.ArticleActivity
+ADDED from AndroidManifest.xml:36:9
+	android:theme
+		ADDED from AndroidManifest.xml:37:19
+	android:name
+		ADDED from AndroidManifest.xml:36:19

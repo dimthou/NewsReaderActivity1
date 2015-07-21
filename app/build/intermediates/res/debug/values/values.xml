@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Thou/Documents/New%20folder/NewsReaderActivity1/app/src/main/res/values/layouts.xml -->
+    <eat-comment/>
+    <bool name="has_two_panes">false</bool>
+    <item name="main_layout" type="layout">@layout/onepane_with_bar</item>
+    <!-- From: file:/C:/Users/Thou/Documents/New%20folder/NewsReaderActivity1/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">NewsReader</string>
+    <string name="hello">Hello World, NewsReaderActivity!</string>
+    <!-- From: file:/C:/Users/Thou/Documents/New%20folder/NewsReaderActivity1/app/src/main/res/values/style.xml -->
+    <eat-comment/>
+    <style name="CategoryButtonStyle" parent="@android:style/Widget.Button">
+    <item name="android:textColor">#ffffff</item>
+</style>
+    <style name="NewsReaderStyle" parent="android:Theme.Light.NoTitleBar">
+</style>
+    <style name="NewsReaderStyle_NoActionBar" parent="android:Theme.Light.NoTitleBar">
+</style>
+</resources>
