@@ -29,6 +29,9 @@ import android.support.v4.app.FragmentActivity;
  * in that case the news article will be displayed by the {@link NewsReaderActivity} and this
  * Activity therefore becomes unnecessary.
  */
+
+// I have change some
+
 public class ArticleActivity extends FragmentActivity {
     // The news category index and the article index for the article we are to display
     int mCatIndex, mArtIndex;
